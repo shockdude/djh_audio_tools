@@ -1,0 +1,1 @@
+%~dp0\vgmstream\test.exe -i -p %1 | %~dp0\sox\sox.exe -t .wav - %1.flac remix -m 1,3,5 2,4,6 rate -v 44100
