@@ -1,1 +1,1 @@
-%~dp0\fsbext\fsbext.exe -p nos71RiT -M %1
+"%~dp0\fsbext\fsbext.exe" -p nos71RiT -M %1
